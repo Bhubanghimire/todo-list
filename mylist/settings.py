@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'mylist.wsgi.application'
 DATABASES = {
    'default': {
        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-       'NAME': 'bhuban',
-       'USER': 'postgres',
-       'PASSWORD': '8924',
-       'HOST': 'localhost',
+       'NAME': 'solbpbwx',
+       'USER': 'solbpbwx',
+       'PASSWORD': 'UkaC09kMRRb3KyfqoJjm7W_7usHrLr3n',
+       'HOST': 'chunee.db.elephantsql.com',
        'PORT': '5432',
    }
 }
